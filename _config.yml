@@ -7,8 +7,8 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: LOFFER
-description: 一个可以fork的博客
+name: yspower
+description: the power of friendship and learning
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -24,11 +24,10 @@ baseurl: /zylwork.guthib.io
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://s2.loli.net/2022/06/06/uhvBbQzARCjMkPg.jpg
+avatar: https://s2.loli.net/2022/06/06/ciAL4JREhl91Wd6.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://s2.loli.net/2022/06/06/uhvBbQzARCjMkPg.jpg
-
+favicon: https://s2.loli.net/2022/06/06/2cTMgbZJRKzIt6A.jpg
 
 # 菜单中的按钮
 navigation:
@@ -66,7 +65,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: the power of friendship and learning
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
